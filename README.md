@@ -78,6 +78,7 @@ These slicers enable interactive, drill-down analysis.
 - Total Orders
 
 Purpose: Quick high-level performance snapshot.
+
 2. **Monthly Sales Trend**
 
 - Visual: Line Chart
@@ -97,6 +98,7 @@ Purpose: Identify seasonality and sales trends over time.
 - Y-Axis: Total Sales
 
 Purpose: Compare revenue contribution across product categories.
+
 4. **Profit by Segment**
 
 - Visual: Donut Chart
