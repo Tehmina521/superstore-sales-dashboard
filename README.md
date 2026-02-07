@@ -52,7 +52,6 @@ Total Orders = COUNT(Orders[Order ID])
 
 ---
 
-
 ## Dashboard Features
 Filters (Slicers)
 
