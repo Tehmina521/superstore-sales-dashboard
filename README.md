@@ -53,7 +53,7 @@ Total Orders = COUNT(Orders[Order ID])
 ---
 
 ## Dashboard Features
-Filters (Slicers)
+**Filters (Slicers)**
 
 - Region
 
@@ -69,7 +69,7 @@ These slicers enable interactive, drill-down analysis.
 
 
 ## Visualizations Used
-1. KPI Cards
+1. **KPI Cards**
 
 - Total Sales
 
@@ -78,7 +78,7 @@ These slicers enable interactive, drill-down analysis.
 - Total Orders
 
 Purpose: Quick high-level performance snapshot.
-2. Monthly Sales Trend
+2. **Monthly Sales Trend**
 
 - Visual: Line Chart
 
@@ -88,7 +88,7 @@ Purpose: Quick high-level performance snapshot.
 
 Purpose: Identify seasonality and sales trends over time.
 
-3. Sales by Category
+3. **Sales by Category**
 
 - Visual: Bar Chart
 
@@ -97,7 +97,7 @@ Purpose: Identify seasonality and sales trends over time.
 - Y-Axis: Total Sales
 
 Purpose: Compare revenue contribution across product categories.
-4. Profit by Segment
+4. **Profit by Segment**
 
 - Visual: Donut Chart
 
@@ -107,7 +107,7 @@ Purpose: Compare revenue contribution across product categories.
 
 Purpose: Understand profitability across customer segments.
 
-5. Top 10 Customers by Sales
+5. **Top 10 Customers by Sales**
 
 - Visual: Bar Chart
 
