@@ -43,7 +43,7 @@ Contains order-level sales data including:
 ---
 
 ## Key DAX Measures
-```DAX
+
 Total Sales = SUM(Orders[Sales])
 
 Total Profit = SUM(Orders[Profit])
